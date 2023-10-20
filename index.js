@@ -19,7 +19,7 @@ let num4 = 7;
 
 let mod = num3 % num4;
 
-console.log(mod); // Output: 0
+console.log(mod); 
 
 //this creates a variable called max containing an array of numbers, it then uses math.max to get the highest number in the array
 let numbers = [10, 15, 20, 5, 8, 12]; 
